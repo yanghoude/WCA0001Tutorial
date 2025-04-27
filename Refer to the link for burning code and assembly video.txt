@@ -1,0 +1,9 @@
+Assembly content:
+
+https://www.youtube.com/watch?v=o6i1rkfp694&t=68s
+
+(Warm reminder: 
+The AP mode code is burned into the main control board of this product by default: 
+Users assemble it correctly according to the documents and videos, search "MY car" wfii name on the mobile phone, 
+enter the password "12345678", open the browser and enter the IP 192.168.4.1 to control the page)
+
